@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotlinDiceRoll</string>
+    <string name="roll_text">Roll</string>
+</resources>
